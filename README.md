@@ -65,15 +65,15 @@ plt.axis('on')
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/8772c861-b391-46ad-86ac-3e72fcde051d)
+![WhatsApp Image 2024-10-16 at 15 12 58_4a4170de](https://github.com/user-attachments/assets/405ff4d2-2ad2-45d6-b0c0-bea1b5a65a9c)
+![WhatsApp Image 2024-10-16 at 15 12 59_e05ce6f9](https://github.com/user-attachments/assets/f3738921-834f-484e-b3bc-116d0bed23d8)
 
-![image](https://github.com/user-attachments/assets/edf823ad-7f50-4af6-86b3-57e4a141e748)
+![WhatsApp Image 2024-10-16 at 15 12 59_04715077](https://github.com/user-attachments/assets/fd3f3679-437e-439a-8c56-9acd7cbfbb7f)
 
-![image](https://github.com/user-attachments/assets/8b564fad-11e0-45a4-804a-3e97d3741c3a)
 
-![image](https://github.com/user-attachments/assets/bdaddde5-bd00-453d-8509-d00b641e3d83)
 
-![image](https://github.com/user-attachments/assets/45de9ba2-2318-4ba4-bd4d-111b83857945)
+
+
 
 
 ## Result
